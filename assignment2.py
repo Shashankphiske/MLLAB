@@ -15,7 +15,7 @@ r_sq = model.score(x, y)  # R-squared value
 intercept = model.intercept_
 slope = model.coef_
 
-# Predictions
+# Prediction
 y_pred = model.predict(x)
 
 # Evaluation Metrics

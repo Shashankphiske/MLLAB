@@ -1,6 +1,5 @@
 import pandas as pd
 import seaborn as sns
-from sklearn.datasets import make_classification
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
